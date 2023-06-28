@@ -1,4 +1,4 @@
-# bachelorthesis
+# Bachelor Thesis Jan Wälty 2023 
 Bachelorthesis Markowitz Optimization \
 Copyright:
 
