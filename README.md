@@ -1,5 +1,5 @@
 # Bachelor Thesis Jan Wälty 2023 
-Bachelorthesis Markowitz Optimization \
+Bachelor Thesis Markowitz Optimization \
 Copyright:
 
 CovCor.py and CovPara1.py provided by https://github.com/pald22/covShrinkage (with minor changes) \
